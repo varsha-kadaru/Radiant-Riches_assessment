@@ -1,0 +1,29 @@
+.container{
+   margin-left: 100px;
+   margin-right: 100px;
+}
+.subtitles{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    border: 0.5px solid black;
+    border-left: transparent;
+    border-right: transparent;
+}
+.subtitles2{
+    margin:15px;
+    display: flex;
+    justify-content: space-between;
+}
+.subtitles3{
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    letter-spacing: 1px;
+    font-weight: 500;
+    text-align: left;
+}
+.item{
+    margin-right: 15px;
+}
